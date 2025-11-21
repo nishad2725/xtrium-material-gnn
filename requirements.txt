@@ -1,0 +1,12 @@
+torch>=2.1.0
+torch-geometric
+pandas
+scikit-learn
+tqdm
+sentence-transformers
+neo4j
+py2neo
+rdkit-pypi
+pyyaml
+matplotlib
+jupyterlab
