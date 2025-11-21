@@ -48,8 +48,6 @@ environment.yml
 *.log
 
 # Data
-data/
-data/*
 
 # VS Code
 .vscode/
